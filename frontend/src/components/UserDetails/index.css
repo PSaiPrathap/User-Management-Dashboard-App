@@ -1,0 +1,96 @@
+.user-details{
+  background-image: url("../Home/user3.jpg");
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+}
+
+.user-details-header{
+  color: #ffffff;
+  margin-left: 55px;
+  margin-top: 20px;
+}
+
+.profilecontainer{
+  background-color: #f0eeeb;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 20px;
+  padding: 50px;
+  border-radius: 30px;
+}
+
+.profile-info{
+  width: 75vw;
+  margin-right: 50px;
+}
+
+.profileimage{
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+}
+
+.edit-form {
+  position: relative;
+  background: #ffffff;
+  padding: 30px;
+  border-radius: 12px;
+  width: 600px;
+  max-width: 90%;
+  max-height: 90vh;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+  scrollbar-width: none;
+}
+
+.edit-form label {
+  font-weight: 600;
+  margin-bottom: 4px;
+  color: #333;
+}
+
+.edit-form input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  outline: none;
+  font-size: 14px;
+  transition: border 0.2s;
+}
+
+.edit-form input:focus {
+  border-color: #007bff;
+  box-shadow: 0px 0px 4px rgba(0, 123, 255, 0.3);
+}
+
+.edit-form button {
+  margin-top: 10px;
+  padding: 10px;
+  background: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: 0.2s;
+}
+
+.edit-form button:hover {
+  background: #0056b3;
+}
+
+.popup-content {
+  border-radius: 12px !important;
+  padding: 0 !important;
+  background: transparent !important;
+}
+
+.popup-overlay {
+  background: rgba(0, 0, 0, 0.4) !important;
+}
