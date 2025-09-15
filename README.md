@@ -1,9 +1,8 @@
-````
+
 ### User Management Dashboard App
 
 A simple **User Management Dashboard** built with React.js and Node.js that allows you to manage users, view details, edit, and delete users.  
 
----
 
 ## 🚀 Tech Stack Used
 - **Frontend**: React.js, React Hooks, Context API, reactjs-popup, HTML, CSS, JavaScript  
@@ -11,7 +10,6 @@ A simple **User Management Dashboard** built with React.js and Node.js that allo
 - **Database**: Sqlite3  
 - **Icons & UI**: React Icons  
 
----
 
 ## 🛠️ Setup Instructions
 
