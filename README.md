@@ -8,8 +8,29 @@ A simple **User Management Dashboard** built with React.js and Node.js that allo
 - **Frontend**: React.js, React Hooks, Context API, reactjs-popup, HTML, CSS, JavaScript  
 - **Backend**: Node.js, Express.js  
 - **Database**: Sqlite3  
-- **Icons & UI**: React Icons  
+- **Icons & UI**: React Icons
 
+## 📸 Screenshots
+
+### Dashboard Page :-
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-15 225118" src="https://github.com/user-attachments/assets/9b5a5271-ba39-49a0-b9ac-695ca76f4b95" />
+
+### User Details Page :-
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-15 225300" src="https://github.com/user-attachments/assets/be48ebab-1ebb-491f-b567-c2879934acbb" />
+
+### Create User Form :-
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-15 225138" src="https://github.com/user-attachments/assets/c22f85fe-a7d1-465e-be28-c5e43c4fa232" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-15 225157" src="https://github.com/user-attachments/assets/800b5967-90ed-483d-916f-fe18755e0470" />
+
+### Edit User Form :-
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-15 225346" src="https://github.com/user-attachments/assets/29cc2d9f-683c-43bc-ad8d-1cd816b7fca8" />
+
+---
 
 ## 🛠️ Setup Instructions
 
@@ -73,4 +94,3 @@ User-Management-Dashboard-App/
 * Pagination & advanced filtering
 
 ---
-
